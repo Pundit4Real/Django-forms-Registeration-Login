@@ -14,6 +14,12 @@ Create a virtual environment
 
     python -m venv 'your-virtual-envirnment-name'
 
+install the necessary packages using this command.
 
+        pip install -r requirements.txt
+
+clone the project using this command.
+
+        git clone https://github.com/Pundit4Real/Django-forms-Registeration-Login.git
 
 
