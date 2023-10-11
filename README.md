@@ -10,7 +10,9 @@ This data in the database is then use validate the user when logining into the s
 
 # Installation.
 Create a virtual environment 
-  python -m venv 'your-virtual-envirnment-name'
+
+
+    python -m venv 'your-virtual-envirnment-name'
 
 
 
