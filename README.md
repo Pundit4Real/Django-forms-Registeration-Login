@@ -37,5 +37,5 @@ Remember to create super user using the createsuperuser command.
 
 ### This is a beginner project and may not contain all the necessary security features,
 feel free to customise it to suit your project requirements.
-
+..........
 
