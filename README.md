@@ -25,11 +25,17 @@ Clone the project using this command.
 Set-up your database by running the following commands
 
         python manage.py makemigrations
+......................................
 
         python manage.py migrate
 
 Start your local server with this command
 
         python manage.py runserver
+
+Remember to create super user using the createsuperuser command.
+
+### This is a beginner project and may not contain all the necessary security features,
+feel free to customise it to suit your project requirements.
 
 
